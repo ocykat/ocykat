@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This account is abandoned (at least for now). Nowadays you can find me [here](https://github.com/nathan-wien).
+
 <!--
 **ocykat/ocykat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
